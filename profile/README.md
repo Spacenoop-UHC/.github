@@ -4,13 +4,13 @@ This organization is ONLY for the UHC related programs. All others applications 
 
 ## Our apps
 In this organization you can find the repositories of the following apps:
-- The Spacenoop's official UHC minecraft plugin
-- The Spacenoop's UHC official modules (That involves secnarios or gamemodes that are implemented in the UHC minecraft plugin by default and are developped by the same team)
-- The Spacenoop's UHC official module toolkit (That allows developers approved by the team to create scenarios, gamemodes and additions to our official UHC plugin)
-- The Spacenoop's official MumbleLinkUtil minecraft plugin (That allows the official spacenoop's UHC plugin to (un)mute, move, deaf and manage users on a mumble server and manage permissions, channels and roles of a mumble server)
-- The Spacenoop's official UHC Discord bot (That mentions users in a guild or in direct message for UHC games starting soon)
-- The Spacenoop's official UHC API (That allows developers approved by the team to access informations concerning our servers, current games and more...)
-- The Spacenoop's official UHC website
+- The `Spacenoop's official UHC minecraft plugin`
+- The `Spacenoop's UHC official modules` (That involves secnarios or gamemodes that are implemented in the UHC minecraft plugin by default and are developped by the same team)
+- The `Spacenoop's UHC official module toolkit` (That allows developers approved by the team to create scenarios, gamemodes and additions to our official UHC plugin)
+- The `Spacenoop's official MumbleLinkUtil minecraft plugin` (That allows the official spacenoop's UHC plugin to (un)mute, move, deaf and manage users on a mumble server and manage permissions, channels and roles of a mumble server)
+- The `Spacenoop's official UHC Discord bot` (That mentions users in a guild or in direct message for UHC games starting soon)
+- The `Spacenoop's official UHC REST API` (That allows developers approved by the team to access informations concerning our servers, current games and more...)
+- The `Spacenoop's official UHC website`
 
 ## Resources
 All the documentations for the semi-public repositories such as the UHC API or the UHC module toolkit can be found at [docs.uhc.spacenoop.fr/](https://docs.uhc.spacenoop.fr/).
