@@ -15,8 +15,9 @@ In this organization you can find the repositories of the following apps:
 ## Resources
 All the documentations for the semi-public repositories such as the UHC API or the UHC module toolkit can be found at [docs.uhc.spacenoop.fr/](https://docs.uhc.spacenoop.fr/).
 To request access to a semi-public repository you can either:
--> Register yourself as a dev on our [website](https://spacenoop.fr/register). When asked, select the "UHC dev pass" and fill up the form that'll show up. Once done, the team will evaluate your responses and give you (or not) an access to the repositories you need. (The team can contact you during the evaluation process to ensure your identity or the purpose of your application. The team can decline any application if we assume that it can cause security problems or damage to our apps, programms or community)
--> Send us a mail with your first name, last name, age, discord username AND id, reason of your application, repositories you request access for and your github profile link.
+* Register yourself as a dev on our [website](https://spacenoop.fr/register). When asked, select the "UHC dev pass" and fill up the form that'll show up. Once done, the team will evaluate your responses and give you (or not) an access to the repositories you need. (The team can contact you during the evaluation process to ensure your identity or the purpose of your application. The team can decline any application if we assume that it can cause security problems or damage to our apps, programms or community)
+* Send us a mail with your first name, last name, age, discord username AND id, reason of your application, repositories you request access for and your github profile link.
+
 The team usually responds in 1 to 3 week days (Mon. -> Fri. | 8:00 AM -> 16:00 PM (UTC+2)). If you don't receive a response after that time, do not hesitate to write us an email again or create a ticket on the spacenoop's discord server.
 
 <!--
